@@ -40,7 +40,6 @@
 **/coverage
 **/.env
 **/.env.*
-!**/.env.example
 
 # MySQL
 **/*.sql
